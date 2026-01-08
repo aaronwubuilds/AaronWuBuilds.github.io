@@ -13,7 +13,7 @@ params:
     enabled: true
     title: "Aaron Wu"
     subtitle: "Backend Engineer | System Design | Cloud Architecture"
-    imageUrl: "/images/logo_v1.jpg"
+    imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
     imageHeight: 150
     buttons:
@@ -25,20 +25,18 @@ params:
         url: "mailto:aaronwubuilds@gmail.com"
     assets:
       favicon: "/images/logo_v1.png"
-      favicon16x16: "/images/logo_v1.jpg"
-      favicon32x32: "/images/logo_v1.jpg"
-      apple_touch_icon: "/images/logo_v1.jpg"
+      favicon16x16: "/images/logo_v2.jpeg"
+      favicon32x32: "/images/logo_v2.jpeg"
+      apple_touch_icon: "/images/logo_v2.jpeg"
     label:
       text: "Aaron Wu"
-      icon: "/images/logo_v1.jpg"
+      icon: "/images/logo_v2.jpeg"
       iconHeight: 35  # 可以調整大小，建議 30-50 之間
   
   # 社交連結（顯示在頁尾）
   socialIcons:
-    - name: github
-      url: "https://github.com/你的GitHub帳號"
     - name: linkedin
-      url: "https://linkedin.com/in/你的ID"
+      url: "https://linkedin.com/company/aaronwubuilds"
 
 menu:
   main:
