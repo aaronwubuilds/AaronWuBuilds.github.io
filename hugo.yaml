@@ -13,16 +13,25 @@ params:
     enabled: true
     title: "Aaron Wu"
     subtitle: "Backend Engineer | System Design | Cloud Architecture"
-    imageUrl: "https://github.com/你的GitHub帳號.png" # 自動抓取你的頭像
+    imageUrl: "/images/logo_v1.jpg"
     imageWidth: 150
     imageHeight: 150
     buttons:
       - name: GitHub
-        url: "https://github.com/你的GitHub帳號"
+        url: "https://github.com/aaronwubuilds"
       - name: LinkedIn
-        url: "https://linkedin.com/in/你的ID"
+        url: "https://linkedin.com/company/aaronwubuilds"
       - name: Email
-        url: "mailto:你的Email@example.com"
+        url: "mailto:aaronwubuilds@gmail.com"
+    assets:
+      favicon: "/images/logo_v1.png"
+      favicon16x16: "/images/logo_v1.jpg"
+      favicon32x32: "/images/logo_v1.jpg"
+      apple_touch_icon: "/images/logo_v1.jpg"
+    label:
+      text: "Aaron Wu"
+      icon: "/images/logo_v1.jpg"
+      iconHeight: 35  # 可以調整大小，建議 30-50 之間
   
   # 社交連結（顯示在頁尾）
   socialIcons:
