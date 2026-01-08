@@ -1,0 +1,39 @@
+baseURL: "https://你的GitHub帳號.github.io/"
+title: "Aaron Wu"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+
+params:
+  defaultTheme: auto
+  # 商業 Profile 模式
+  profileMode:
+    enabled: true
+    title: "Aaron Wu"
+    subtitle: "Backend Engineer | System Design | Cloud Architecture"
+    imageUrl: "https://github.com/你的GitHub帳號.png" # 自動抓取你的頭像
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: GitHub
+        url: "https://github.com/你的GitHub帳號"
+      - name: LinkedIn
+        url: "https://linkedin.com/in/你的ID"
+      - name: Email
+        url: "mailto:你的Email@example.com"
+  
+  # 社交連結（顯示在頁尾）
+  socialIcons:
+    - name: github
+      url: "https://github.com/你的GitHub帳號"
+    - name: linkedin
+      url: "https://linkedin.com/in/你的ID"
+
+menu:
+  main:
+    - identifier: posts
+      name: Tech Blog
+      url: /posts/
+      weight: 10
