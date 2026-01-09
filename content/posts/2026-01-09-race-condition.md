@@ -8,8 +8,6 @@ author: "Aaron"
 description: "庫存 10 個卻賣出 12 個？這不是運氣不好，這是 Race Condition。這篇教你怎麼用 Redis 解決新創最頭痛的超賣問題。"
 ---
 
-{{< newsletter >}}
-
 # [System Design] 為什麼你的 App 會「超賣」？給創業者的併發 (Concurrency) 第一課
 
 你是 **Bob**，一個請不起軟體工程師的創業者。在 Vibe Coding 的時代，你相信自己靠 AI 寫 MVP 沒問題的。
