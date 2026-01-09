@@ -94,7 +94,8 @@ You suddenly think: "Since Redis is so powerful, can I just throw away my SQL da
 In the next post, we will discuss: **The risks of data persistence, and why we still need traditional databases.**
 
 👇 **Want to see how I implement this anti-overselling system?**
-I am Aaron, a software engineer based in the US. I am currently turning this architecture into a simple open-source project called **"FlashForm"** for reference.
+I'm Aaron, a software engineer designing systems. 
+I'm turning this architecture into a simple open-source project called **"FlashForm"** for reference.
 If you enjoy these kinds of architectural notes that solve real business problems, feel free to follow and subscribe.
 
 #SystemDesign #Startup #RaceCondition #Backend #AaronWuBuilds
