@@ -1,6 +1,6 @@
 ---
 title: "[System Design] 為什麼你的 App 會「超賣」？給創業者的併發第一課"
-date: 2024-01-xxT12:00:00+08:00
+date: 2026-01-09T12:00:00+08:00
 draft: false
 tags: ["System Design", "Startup", "Backend", "Redis"]
 categories: ["Engineering"]
