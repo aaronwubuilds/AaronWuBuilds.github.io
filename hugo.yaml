@@ -25,13 +25,13 @@ params:
       - name: 💼 LinkedIn
         url: "https://linkedin.com/in/aaronwubuilds"
       - name: ✍️ Dev.to
-        url: "https://dev.to/aaronwubuilds"
+        url: "https://dev.to/aaronwu-builds"
 
   socialIcons:
     - name: github
       url: "https://github.com/aaronwubuilds"
     - name: linkedin
-      url: "https://linkedin.com/in/aaronwubuilds"
+      url: "https://linkedin.com/company/aaronwubuilds"
     - name: threads
       url: "https://www.threads.net/@aaronwubuilds"
     - name: facebook
