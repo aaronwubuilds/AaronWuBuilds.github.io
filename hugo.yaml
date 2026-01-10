@@ -1,25 +1,9 @@
-baseURL: "https://aaronwubuilds.github.io" 
-title: "Aaron Wu"
-theme: "PaperMod"
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-
-rssLimit: 100
-
 params:
   defaultTheme: auto
-  # 商業 Profile 模式
   profileMode:
     enabled: true
     title: "Aaron Wu"
-    subtitle: "Backend Engineer | System Design | Aaron Wu Builds"
+    subtitle: "Backend Engineer | System Design & Scalability | Bridging Tech & Business Culture"
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
     imageHeight: 150
@@ -27,42 +11,24 @@ params:
       - name: 👨‍💻 Tech Blog
         url: "/posts/"
       - name: 💼 LinkedIn
-        url: "https://linkedin.com/in/aaronwubuilds"
+        url: "https://linkedin.com/company/aaronwubuilds"
       - name: ✍️ Dev.to
-        url: "https://dev.to/aaronwubuilds"
+        url: "https://dev.to/aaronwu-builds"
 
-  # 社交連結（這會以 Icon 形式顯示在 Profile 圖片下方）
-  # PaperMod 支援的名稱：github, linkedin, twitter, x, instagram, email, rss
   socialIcons:
     - name: github
       url: "https://github.com/aaronwubuilds"
     - name: linkedin
-      url: "https://linkedin.com/in/aaronwubuilds"
+      url: "https://linkedin.com/company/aaronwubuilds"
+    - name: threads
+      url: "https://www.threads.net/@aaronwubuilds"
+    - name: facebook
+      url: "https://www.facebook.com/groups/853321424147631/"
+    - name: instagram
+      url: "https://instagram.com/aaronwubuilds"
     - name: x
       url: "https://x.com/aaronwubuilds"
     - name: email
       url: "mailto:aaronwubuilds@gmail.com"
     - name: rss
       url: "/index.xml"
-
-  assets:
-    favicon: "/images/logo_v1.png"
-    favicon16x16: "/images/logo_v2.jpeg"
-    favicon32x32: "/images/logo_v2.jpeg"
-    apple_touch_icon: "/images/logo_v2.jpeg"
-  
-  label:
-    text: "Aaron Wu"
-    icon: "/images/logo_v2.jpeg"
-    iconHeight: 35
-
-menu:
-  main:
-    - identifier: posts
-      name: Tech Blog
-      url: /posts/
-      weight: 10
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 20
