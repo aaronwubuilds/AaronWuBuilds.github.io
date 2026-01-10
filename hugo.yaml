@@ -19,7 +19,6 @@ params:
     responsiveImages: true
     linkFullImages: false
 
-params:
   defaultTheme: auto
   profileMode:
     enabled: true
@@ -31,8 +30,6 @@ params:
     buttons:
       - name: 👨‍💻 Tech Blog
         url: "/posts/"
-      - name: 💼 LinkedIn
-        url: "https://linkedin.com/in/aaronwubuilds"
       - name: ✍️ Dev.to
         url: "https://dev.to/aaronwu-builds"
 
