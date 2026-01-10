@@ -11,11 +11,20 @@ outputs:
     - RSS
 
 params:
+  ShowFullTextContent: false
+  ShowReadingTime: true
+  ShowWordCount: true
+  ShowBreadCrumbs: true
+  cover:
+    responsiveImages: true
+    linkFullImages: false
+
+params:
   defaultTheme: auto
   profileMode:
     enabled: true
     title: "Aaron Wu"
-    subtitle: "Backend Engineer | System Design & Scalability | Bridging Tech & Business Culture"
+    subtitle: "Backend Engineer focused on building resilient distributed systems. Specialized in bridging technical architecture with business strategy."
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
     imageHeight: 150
