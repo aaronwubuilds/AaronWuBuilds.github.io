@@ -1,10 +1,20 @@
+baseURL: "https://aaronwubuilds.github.io/"
+title: "Aaron Wu"
+theme: "PaperMod"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+  section:
+    - HTML
+    - RSS
+
 params:
   defaultTheme: auto
-  
   profileMode:
     enabled: true
     title: "Aaron Wu"
-    
     subtitle: "Backend Engineer | System Design & Scalability | Bridging Tech & Business Culture"
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
@@ -34,3 +44,10 @@ params:
       url: "mailto:aaronwubuilds@gmail.com"
     - name: rss
       url: "/index.xml"
+
+menu:
+  main:
+    - identifier: posts
+      name: Tech Blog
+      url: /posts/
+      weight: 10
