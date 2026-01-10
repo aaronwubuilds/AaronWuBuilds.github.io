@@ -2,9 +2,16 @@ baseURL: "https://aaronwubuilds.github.io"
 title: "Aaron Wu"
 theme: "PaperMod"
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
+
+rssLimit: 100
 
 params:
   defaultTheme: auto
