@@ -1,8 +1,10 @@
 params:
   defaultTheme: auto
+  
   profileMode:
     enabled: true
     title: "Aaron Wu"
+    
     subtitle: "Backend Engineer | System Design & Scalability | Bridging Tech & Business Culture"
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
@@ -11,15 +13,15 @@ params:
       - name: 👨‍💻 Tech Blog
         url: "/posts/"
       - name: 💼 LinkedIn
-        url: "https://linkedin.com/company/aaronwubuilds"
+        url: "https://linkedin.com/in/aaronwubuilds"
       - name: ✍️ Dev.to
-        url: "https://dev.to/aaronwu-builds"
+        url: "https://dev.to/aaronwubuilds"
 
   socialIcons:
     - name: github
       url: "https://github.com/aaronwubuilds"
     - name: linkedin
-      url: "https://linkedin.com/company/aaronwubuilds"
+      url: "https://linkedin.com/in/aaronwubuilds"
     - name: threads
       url: "https://www.threads.net/@aaronwubuilds"
     - name: facebook
