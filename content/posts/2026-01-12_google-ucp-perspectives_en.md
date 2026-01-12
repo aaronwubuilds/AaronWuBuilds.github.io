@@ -12,11 +12,6 @@ draft: false
 
 ---
 
-> **Status Bar:**
-> * **Location:** East District, Hsinchu City, Taiwan 🇹🇼
-> * **Music:** Lofi Girl - 3 A.M. Study Session
-> * **Mood:** Excited (looking at architecture diagrams)
-
 Yesterday, Google officially announced the **Universal Commerce Protocol (UCP)**. Tech media headlines are screaming "The Death of E-commerce," but this one-dimensional panic is not only cheap clickbait—it's fundamentally wrong.
 
 As a backend engineer who has navigated the worlds of **Big Tech**, academia, and startups, I don't see destruction. I see a **displacement of power**: a shift from the dominance of the "Platform" back to the purity of the "Protocol."

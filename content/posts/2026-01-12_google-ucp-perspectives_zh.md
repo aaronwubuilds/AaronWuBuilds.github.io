@@ -11,11 +11,6 @@ Read English Version 🇺🇸 👉 [https://aaronwubuilds.github.io/posts/google
 
 ---
 
-> **Status Bar:**
-> * **Location:** East District, Hsinchu City, Taiwan 🇹🇼
-> * **Music:** Lofi Girl - 3 A.M. Study Session
-> * **Mood:** 興奮 (看著架構圖的時候)
-
 昨天，Google 正式官宣通用商務協定 (UCP, Universal Commerce Protocol)。媒體標題都在喊「電商死期到了」，但這種單一維度的恐慌不僅廉價，而且錯誤。
 
 身為一名在 **大廠 (Big Tech)** 、研究界、新創界，都略為留下足跡的後端工程師，我看到的不是毀滅，而是 **權力的位移**：從強勢的「平台 (Platform)」回歸到純粹的「協定 (Protocol)」。
