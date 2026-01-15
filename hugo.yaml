@@ -57,3 +57,7 @@ menu:
       name: Tech Blog
       url: /posts/
       weight: 10
+    - identifier: subscribe
+      name: "Get The Notes"
+      url: "https://aaronwubuilds.kit.com/field-notes"  <-- 記得換成你剛剛改好的新網址
+      weight: 10
