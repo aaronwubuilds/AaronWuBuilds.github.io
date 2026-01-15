@@ -1,5 +1,5 @@
-baseURL: "https://aaronwubuilds.github.io/"
-title: "Aaron Wu"
+baseURL: "https://aaronwubuilds.com/"
+title: "Aaron Wu" 
 theme: "PaperMod"
 
 outputs:
@@ -22,7 +22,7 @@ params:
   defaultTheme: auto
 profileMode:
     enabled: true
-    title: "Aaron Wu"
+    title: "AaronWuBuilds"
     subtitle: "A technical archive for Backend Engineering, System Design, and CS fundamentals.\n\n👇 Join the newsletter for my unfiltered field notes—the raw stories, career blind spots, and interview insights that I don't publish on the blog.
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
