@@ -27,17 +27,22 @@ params:
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
     imageHeight: 150
+    
     buttons:
+      - name: 📩 Get The Field Notes
+        url: "https://aaronwubuilds.kit.com/subscribe"
       - name: 👨‍💻 Tech Blog
         url: "/posts/"
-      - name: ✍️ Dev.to
-        url: "https://dev.to/aaronwu-builds"
 
   socialIcons:
     - name: github
       url: "https://github.com/aaronwubuilds"
     - name: linkedin
       url: "https://linkedin.com/company/aaronwubuilds"
+    
+    - name: dev.to
+      url: "https://dev.to/aaronwu-builds"
+      
     - name: threads
       url: "https://www.threads.net/@aaronwubuilds"
     - name: facebook
@@ -60,4 +65,4 @@ menu:
     - identifier: subscribe
       name: "Get The Notes"
       url: "https://aaronwubuilds.kit.com/subscribe"
-      weight: 10
+      weight: 20
