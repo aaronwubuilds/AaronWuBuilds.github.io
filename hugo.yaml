@@ -20,11 +20,10 @@ params:
     linkFullImages: false
 
   defaultTheme: auto
-  profileMode:
+profileMode:
     enabled: true
     title: "Aaron Wu"
-    subtitle: "Architecting The Shift.\n\nRaw engineering notes bridging the gap between\nBig Tech standards and Startup agility."
-    
+    subtitle: "A technical archive for Backend Engineering, System Design, and CS fundamentals.\n\n👇 Join the newsletter for my unfiltered field notes—the raw stories, career blind spots, and interview insights that I don't publish on the blog.
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
     imageHeight: 150
