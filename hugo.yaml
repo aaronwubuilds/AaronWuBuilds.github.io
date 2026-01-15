@@ -24,7 +24,7 @@ params:
   profileMode:
     enabled: true
     title: "AaronWuBuilds"
-    subtitle: "A technical archive for Backend Engineering, System Design, and CS fundamentals.\n\n👇 Join the newsletter for my unfiltered field notes (the raw stories, career blind spots, and interview insights that I don't publish on the blog)."
+    subtitle: "A technical archive for Backend Engineering, System Design, and CS fundamentals.\n\n👇 Join the newsletter for my unfiltered field notes \n\n(the raw stories, career blind spots, and interview insights that I don't publish on the blog)."
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
     imageHeight: 150
