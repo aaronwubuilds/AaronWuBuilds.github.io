@@ -23,14 +23,15 @@ params:
   profileMode:
     enabled: true
     title: "Aaron Wu"
-    subtitle: "Backend Engineer focused on building resilient distributed systems. Specialized in bridging technical architecture with business strategy."
+    subtitle: "Architecting The Shift.\n\nRaw engineering notes bridging the gap between\nBig Tech standards and Startup agility."
+    
     imageUrl: "/images/logo_v2.jpeg"
     imageWidth: 150
     imageHeight: 150
     
     buttons:
       - name: 📩 Get The Field Notes
-        url: "https://aaronwubuilds.kit.com/subscribe"
+        url: "https://aaronwubuilds.kit.com/field-notes"
       - name: 👨‍💻 Tech Blog
         url: "/posts/"
 
@@ -39,7 +40,6 @@ params:
       url: "https://github.com/aaronwubuilds"
     - name: linkedin
       url: "https://linkedin.com/company/aaronwubuilds"
-    
     - name: dev.to
       url: "https://dev.to/aaronwu-builds"
       
@@ -64,5 +64,5 @@ menu:
       weight: 10
     - identifier: subscribe
       name: "Get The Notes"
-      url: "https://aaronwubuilds.kit.com/subscribe"
+      url: "https://aaronwubuilds.kit.com/field-notes"
       weight: 20
