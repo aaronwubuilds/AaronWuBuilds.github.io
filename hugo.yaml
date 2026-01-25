@@ -31,7 +31,7 @@ params:
     
     buttons:
       - name: 📩 Get The Field Notes
-        url: "https://aaronwubuilds.kit.com/field-notes"
+        url: "https://aaronwubuilds.kit.com/subscribe"
       - name: 👨‍💻 Tech Blog
         url: "/posts/"
 
@@ -64,5 +64,5 @@ menu:
       weight: 10
     - identifier: subscribe
       name: "Get The Notes"
-      url: "https://aaronwubuilds.kit.com/field-notes"
+      url: "https://aaronwubuilds.kit.com/subscribe"
       weight: 20
