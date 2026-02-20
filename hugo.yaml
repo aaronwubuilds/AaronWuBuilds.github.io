@@ -2,6 +2,10 @@ baseURL: "https://aaronwubuilds.com/"
 title: "Aaron Wu" 
 theme: "PaperMod"
 
+author:
+  name: "Aaron Wu"
+  email: "aaronwubuilds@gmail.com"
+
 outputs:
   home:
     - HTML
@@ -11,6 +15,7 @@ outputs:
     - RSS
 
 params:
+  author: "Aaron Wu"
   ShowFullTextContent: false
   ShowReadingTime: true
   ShowWordCount: true
