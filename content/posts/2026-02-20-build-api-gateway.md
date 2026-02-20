@@ -1,4 +1,12 @@
-### Architecting a Resilient AI API Gateway: Deep Dive into Distributed Rate Limiting
+---
+title: "Architecting a Resilient AI API Gateway: Deep Dive into Distributed Rate Limiting"
+date: 2026-02-20T22:40:00+08:00
+slug: architecting-resilient-ai-api-gateway
+description: "A deep dive into building a production-grade AI API Gateway in Go. Exploring dual-layer caching, Lua-based atomic operations in Redis, and distributed failure strategies (Fail-Open vs. Fail-Closed)."
+tags: ["API Gateway", "Backend Engineering", "System Design", "Go", "Redis"]
+canonical_url: https://aaronwubuilds.com/posts/architecting-resilient-ai-api-gateway/
+draft: false
+---
 
 In the modern era of Generative AI, computing power is the ultimate currency, and backend GPUs are fundamentally fragile. If you have ever integrated with an LLM provider, you are intimately familiar with the dreaded `429 Too Many Requests` response. Providers enforce these limits to protect their infrastructure from malicious abuse (or poorly written `while(true)` loops) and to enforce tier-based monetization. If you are a platform engineer exposing an AI model to the world, a robust API Gateway isn't optional—it is your primary line of defense.
 
