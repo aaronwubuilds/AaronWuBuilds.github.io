@@ -4,15 +4,13 @@ theme: "PaperMod"
 
 author:
   name: "Aaron Wu"
-  email: "aaronwubuilds@gmail.com"
+  email: "aaronwu000@gmail.com"
 
 outputs:
   home:
     - HTML
-    - RSS
   section:
     - HTML
-    - RSS
 
 params:
   author: "Aaron Wu"
@@ -28,38 +26,25 @@ params:
   
   profileMode:
     enabled: true
-    title: "AaronWuBuilds"
-    subtitle: "A technical archive for Backend Engineering, System Design, and CS fundamentals.\n\n👇 Join the newsletter for my unfiltered field notes \n\n(the raw stories, career blind spots, and interview insights that I don't publish on the blog)."
-    imageUrl: "/images/logo_v2.jpeg"
+    title: "Aaron Wu"
+    subtitle: "Backend & AI Infrastructure Engineer.\n\nFocused on building high-throughput, low-latency distributed systems with Go, Java, and Python.\n\nHere is my technical archive of system design trade-offs, concurrency models, and architecture field notes."
+    imageUrl: "/images/profile.jpg"
     imageWidth: 150
     imageHeight: 150
     
     buttons:
-      - name: 📩 Get The Field Notes
-        url: "https://aaronwubuilds.kit.com/subscribe"
-      - name: 👨‍💻 Tech Blog
+      - name: 👨‍💻 Read Tech Blog
         url: "/posts/"
+      - name: 📄 View Resume
+        url: "https://linkedin.com/in/aaronwu000"
 
   socialIcons:
     - name: github
-      url: "https://github.com/aaronwubuilds"
+      url: "https://github.com/aaronwu001"
     - name: linkedin
-      url: "https://linkedin.com/company/aaronwubuilds"
-    - name: dev.to
-      url: "https://dev.to/aaronwu-builds"
-      
-    - name: threads
-      url: "https://www.threads.net/@aaronwubuilds"
-    - name: facebook
-      url: "https://www.facebook.com/groups/853321424147631/"
-    - name: instagram
-      url: "https://instagram.com/aaronwubuilds"
-    - name: x
-      url: "https://x.com/aaronwubuilds"
+      url: "https://linkedin.com/in/aaronwu000"
     - name: email
-      url: "mailto:aaronwubuilds@gmail.com"
-    - name: rss
-      url: "/index.xml"
+      url: "mailto:aaronwu000@gmail.com"
 
 menu:
   main:
@@ -67,7 +52,7 @@ menu:
       name: Tech Blog
       url: /posts/
       weight: 10
-    - identifier: subscribe
-      name: "Get The Notes"
-      url: "https://aaronwubuilds.kit.com/subscribe"
+    - identifier: linkedin
+      name: LinkedIn
+      url: "https://linkedin.com/in/aaronwu000"
       weight: 20
