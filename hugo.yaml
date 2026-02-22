@@ -27,15 +27,15 @@ params:
   profileMode:
     enabled: true
     title: "Aaron Wu"
-    subtitle: "Backend & AI Infrastructure Engineer.\n\nFocused on building high-throughput, low-latency distributed systems with Go, Java, and Python.\n\nHere is my technical archive of system design trade-offs, concurrency models, and architecture field notes."
+    subtitle: "Backend & AI Infrastructure Engineer. Building high-throughput distributed systems with Go, Java, and Python. Welcome to my technical archive of system design and architecture field notes."
     imageUrl: "/images/profile.jpg"
     imageWidth: 150
     imageHeight: 150
     
     buttons:
-      - name: 👨‍💻 Read Tech Blog
+      - name: Read Tech Blog
         url: "/posts/"
-      - name: 📄 View Resume
+      - name: View Resume
         url: "https://linkedin.com/in/aaronwu000"
 
   socialIcons:
