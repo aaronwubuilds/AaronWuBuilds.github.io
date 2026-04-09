@@ -7,7 +7,6 @@ tags: ["Career", "Study Abroad", "Computer Science", "Decision Making", "Rutgers
 draft: false
 ---
 
-
 # 放棄台大、世界前 20 的 UofT，轉到州立大學？我在北美求職被強迫打破的名校迷思
 
 最近有位申請上美國 ECE 碩士的學姐來找我討論選校，她在 Georgia Tech (GT) 和 CMU 之間猶豫。她說自己有興趣的領域以硬體為主，其實客觀來看比較適合 GT。
