@@ -1,3 +1,13 @@
+---
+title: "放棄台大、世界前 20 的 UofT，轉到州立大學？我在北美求職被強迫打破的名校迷思"
+date: 2026-04-09T12:00:00+08:00
+slug: breaking-prestige-myth-cs-career-zh
+description: "放棄多倫多大學 (UofT) 的光環，轉學到羅格斯大學 (Rutgers)？本文分享我在北美軟體求職面對名校迷思的真實經歷與決策模型，探討如何在殘酷的就業市場中確立自己的勝利條件。"
+tags: ["Career", "Study Abroad", "Computer Science", "Decision Making", "Rutgers", "UofT"]
+draft: false
+---
+
+
 # 放棄台大、世界前 20 的 UofT，轉到州立大學？我在北美求職被強迫打破的名校迷思
 
 最近有位申請上美國 ECE 碩士的學姐來找我討論選校，她在 Georgia Tech (GT) 和 CMU 之間猶豫。她說自己有興趣的領域以硬體為主，其實客觀來看比較適合 GT。
